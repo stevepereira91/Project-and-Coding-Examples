@@ -1,4 +1,4 @@
-# Project-and-Coding-Examples
+# Project and Coding Examples
 
 This repository contains some examples of projects I have worked on.  As well a sample of my coding ability.
 
