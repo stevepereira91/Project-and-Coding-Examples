@@ -4,5 +4,5 @@ This repository contains some examples of projects I have worked on.  As well a 
 
 This repository is sample derived from work from the following repositories:
 
--https://github.com/stevepereira91/Springboard-Coursework
+*https://github.com/stevepereira91/Springboard-Coursework
 
