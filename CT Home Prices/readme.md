@@ -1,1 +1,2 @@
+# CT Home Prices
 This project builds a  predictive price model for Connecticut residential single family homes.  Data collected from the Connecticut Multiple Listing Service is used to identify characteristics which most affect listing closing prices.  The data set used in this analysis consisted of 58,107 listings and their characteristics including acreage, square footage, bathrooms, and garage size.  Any single family property which closed in Connecticut between 7/28/2020 - 7/29/2021 is included in this dataset, excluding private sales.
