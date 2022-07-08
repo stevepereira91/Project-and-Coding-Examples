@@ -1,1 +1,2 @@
+# Using NLP to Predict political affiliation using Youtube Comments
 This project seeks to build a predictive model that can identify political affiliation using Natural Language Processing.   The model will be trained on Youtube comments on videos regarding Covid-19 from the 3 major cable news networks: CNN, Fox, and MSNBC.  The assumption of this project is that consumers of videos share the political affiliation of the network.
