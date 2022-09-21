@@ -2,4 +2,4 @@
 
 Contains examples of practice postgreSQL projects.  SQL queries are completed in Jupyter notebook using Python  
 
-VideoGameSales - Completed through DataCamp
+**VideoGameSales** - Completed through DataCamp
