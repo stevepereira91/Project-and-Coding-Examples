@@ -5,3 +5,5 @@ Contains examples of practice postgreSQL projects.  SQL queries are completed in
 * **VideoGameSales** - Completed through DataCamp
 
 * **SQLTasks Tier 1.sql** - Completed through Springboard
+
+* **InternationalDebt** - Completed through Datacamp
