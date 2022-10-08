@@ -6,7 +6,11 @@ This repository is a sample partially derived from work from the following repos
 
 * [**Springboard Coursework**](https://github.com/stevepereira91/Springboard-Coursework) 
 
+* [**Datacamp Coursework**](https://github.com/stevepereira91/Datacamp_Coursework) 
+
 * [**Personal Projects**](https://github.com/stevepereira91/Personal_Projects) 
+
+
 
 
 
