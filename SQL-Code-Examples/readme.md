@@ -9,3 +9,5 @@ Contains examples of practice postgreSQL projects.  SQL queries are completed in
 * **International_Debt** - Completed through Datacamp
 
 * **OnlineSneakerSales** - Completed through Datacamp
+
+* **Analyzing_unicorn_companies** - Complete through Datacamp
